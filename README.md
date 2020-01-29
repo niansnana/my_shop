@@ -1,4 +1,5 @@
 # my_shop
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+this is my first test of vue project
+>>>>>>> f0e8ecd474465825b0a619258f4529f5d332b1b0
