@@ -145,7 +145,7 @@ export default {
       this.queryInfo.pagesize = newSize;
       this.getCateList();
     },
-    // 监听 pagenum页码值 的变化
+    // 监听 pagenum 页码值 的变化
     handleCurrentChange(newPage) {
       this.queryInfo.pagenum = newPage;
       this.getCateList();
